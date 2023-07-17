@@ -1,0 +1,23 @@
+{
+    "status_code": 200,
+    "data": [
+        {
+            "user_id": 3.0,
+            "name": "Jenny",
+            "age": 34.0,
+            "phone": null
+        },
+        {
+            "user_id": 2.0,
+            "name": "Tom",
+            "age": 29.0,
+            "phone": "1-800-123-1234"
+        },
+        {
+            "user_id": 1.0,
+            "name": "John",
+            "age": 28.0,
+            "phone": null
+        }
+    ]
+}
